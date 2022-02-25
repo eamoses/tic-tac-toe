@@ -3,8 +3,7 @@ body {
 }
 
 .jumbotron {
-  margin: 5% auto;
-  margin-left: 43%;
+  text-align: center;
 }
 
 td {
